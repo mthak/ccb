@@ -1,0 +1,3 @@
+Tool to download git repos and zip it up.
+usage : python parse_xml.py <xml-file> <tar-file-name>
+install Requirements using pip install -r requirements.txt
